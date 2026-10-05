@@ -66,6 +66,6 @@ To build and evaluate binary classification models that predict thyroid cancer r
 - matplotlib
 - seaborn
 
-
+Original Colab Link to Project: https://colab.research.google.com/drive/1KS-CcKHKJ8Y4huOswWIfl-hSLZd5oGQB#scrollTo=W4RUud0oIrXJ
 
 
