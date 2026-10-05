@@ -58,7 +58,7 @@ To build and evaluate binary classification models that predict thyroid cancer r
 
 5. Once the notebook is open, upload the dataset file (`Thyroid_Diff.csv`) using the file upload cell included at the top of the notebook, or mount Google Drive if you've stored the file there.
 
-6. Make sure the file path in the notebook matches wherever you uploaded the dataset
+6. Make sure the file path in the notebook matches wherever you uploaded the dataset.
 ## Requirements
 - pandas
 - numpy
