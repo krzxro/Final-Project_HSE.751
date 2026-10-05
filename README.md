@@ -30,7 +30,7 @@ To build and evaluate binary classification models that predict thyroid cancer r
 - Identified potential challenges, including class imbalance and high-dimensionality after encoding categorical variables
 
 ### 3. Preprocessing
-- Encoded categorical variables (one-hot/label encoding)
+- Encoded categorical variables
 - Scaled numeric features as needed
 - Addressed class imbalance in the target variable
 
@@ -48,5 +48,24 @@ To build and evaluate binary classification models that predict thyroid cancer r
 - Compared findings to known clinical risk factors for thyroid cancer recurrence
 
 ## How to Run
+1. Go to this GitHub repository and download or clone it using GitHub Desktop, or simply download the ZIP file by clicking **Code > Download ZIP**.
+
+2. Locate the notebook file (`thyroid_recurrence_analysis.ipynb`) and the dataset file (`Thyroid_Diff.csv`) included in this repository.
+
+3. Open Google Colab at [https://colab.research.google.com](https://colab.research.google.com).
+
+4. Select **File > Upload Notebook**, then upload `thyroid_recurrence_analysis.ipynb` from this repository.
+
+5. Once the notebook is open, upload the dataset file (`Thyroid_Diff.csv`) using the file upload cell included at the top of the notebook, or mount Google Drive if you've stored the file there.
+
+6. Make sure the file path in the notebook matches wherever you uploaded the dataset
+## Requirements
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+
+
 
 
